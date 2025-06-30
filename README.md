@@ -68,19 +68,42 @@ With safe indirect solar observation, the following absorption lines were visual
 
 ```
 spectroscope/
-  adjustable_slit.JPG
-  Fraunhofer_spectrum_digiscopy.JPG
-  setting_day.JPG
-  setting_night.JPG
-  webcam.JPG
+adjustable_slit.JPG
+→ Close-up of the entrance slit, built using two razor blades;
+manually adjustable for optimal resolution and light throughput.
+
+Fraunhofer_spectrum_digiscopy.JPG
+→ Solar spectrum captured via digiscopy, showing prominent Fraunhofer absorption lines.
+
+setting_day.JPG
+→ Daytime setup for solar observation, using a magnesium carbonate pellet
+as a white diffuser to safely project the Sun’s spectrum.
+
+setting_night.JPG
+→ Nighttime configuration with webcam, adapter, laptop and spectroscope;
+used to capture streetlamp spectra (e.g. sodium vapor lamp).
+
+webcam.JPG
+→ Philips SPC900 webcam fitted with a 31.75 mm (1.25 inch) eyepiece adapter.
 
 results/
-  Lamp_Hg_2.JPG
-  Sodium_lamp.JPG
-  tube_Hg.JPG
-  plasmoid.PNG              # annotated plasmoid spectrum
-  spectre_lampe_Hg.JPG      # Hg tube spectrogram
-  spectre_lampe_Na.JPG      # Na streetlamp spectrogram
+Lamp_Hg_2.JPG
+→ Spectrum from a compact fluorescent mercury vapor lamp (with phosphor coating).
+
+Sodium_lamp.JPG
+→ Spectrum from a high-pressure sodium streetlamp.
+
+tube_Hg.JPG
+→ Photograph of a low-pressure mercury discharge tube ("neon"-type).
+
+plasmoid.PNG
+→ Annotated spectrum of the microwave-induced carbon plasmoid.
+
+spectre_lampe_Hg.JPG
+→ Calibrated spectrogram of a mercury vapor lamp.
+
+spectre_lampe_Na.JPG
+→ Calibrated spectrogram of a sodium vapor streetlamp.
 ```
 
 ---
